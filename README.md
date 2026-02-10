@@ -16,7 +16,7 @@ This project is a small, production-style **data warehouse ingestion pipeline** 
 8. Observability (audit tables + per-run manifest outputs)  
 9. Container + scheduled job execution (Azure Container Apps Job)
 
-![Architecture](docs/aca-mini-dw-architecture.png)
+![Architecture](docs/arch.drawio.png)
 
 ---
 **One-Command Azure Resource Setup (Required)**
